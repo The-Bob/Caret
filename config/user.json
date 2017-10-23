@@ -56,7 +56,9 @@
   "disableReload": false,
   //Set this to stop the editor from restoring the last set of tabs it had open
   "disableTabRestore": false,
-
+  //Set this to keep editor window on top
+  "keepOnTop": true,
+  
   //Wildly eccentric? You might like Vim keybindings.
   "emulateVim": false,
   
