@@ -24,6 +24,7 @@
     "storage",
     "notifications",
     "syncFileSystem",
+    "alwaysOnTopWindows",
     "app.window.fullscreen.overrideEsc",
     {
       "fileSystem": [
